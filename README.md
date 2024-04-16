@@ -9,7 +9,7 @@ As industries demand higher precision and efficiency in their automation process
 
 Our primary focus lies in three fundamental insertion scenarios:
 
-1. **Cap Insertion:** Teaching robots to accurately place caps on vials.
+1. **Vial Capping Pick and Place:** Teaching robots to accurately place caps on vials.
 2. **Vial Insertion:** Navigating the intricate process of inserting vials into different holders and racks.
 3. **Rack Insertion:** Mastering the skill of inserting racks, both empty and loaded, into their designated holders.
 
@@ -19,7 +19,7 @@ By leveraging the power of stable-baselines3 and sb3-contrib, we've created a pl
 
 <!-- Placing Cap on Vial -->
 <div align="center">
-  <h2><strong>Capping Task</strong></h2>
+  <h2><strong>Vial Capping Task</strong></h2>
 </div>
 
 
