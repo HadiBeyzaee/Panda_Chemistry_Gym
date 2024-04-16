@@ -58,7 +58,7 @@ By leveraging the power of stable-baselines3 and sb3-contrib, we've created a pl
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/HadiBeyzaee/Panda_Chemistry_Gym/assets/124352983/de93ebca-eb27-4f49-acde-efe8d5e24a10" alt="Placing Cap on Vial" width="500px">
+        <img src="https://github.com/HadiBeyzaee/Panda_Chemistry_Gym/assets/124352983/3acbd626-943a-49fd-b201-15befec47f20" alt="Placing Cap on Vial" width="500px">
       </td>
     </tr>
   </table>
