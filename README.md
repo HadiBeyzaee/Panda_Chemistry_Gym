@@ -1,8 +1,13 @@
 <!-- Title and Introduction -->
-# Insertion-Scenarios
-**Exploring Deep Reinforcement Learning for Precise Cap, Vial, and Rack Insertions using Stable Baselines3 Algorithms**
+# Panda_Chemistry_Gym
+**Exploring Deep Reinforcement Learning for Chemistry Laboratory Bench Tasks**
 
-Welcome to the Insertion-Scenarios project, where we dive deep into the world of reinforcement learning and precision insertions. In this repository, we showcase cutting-edge scenarios involving the delicate tasks of Cap, Vial, and Rack insertions, all accomplished using advanced techniques from the stable-baselines3 and sb3-contrib library.
+In this repository, through
+simulation-based experimentation, we explore the performance
+of model-free off-policy deep reinforcement learning algorithms
+in executing pick-and-place and insertion-based tasks such as
+vial, rack, and spatula insertion, and the precise picking and
+placing of vial caps. 
 
 ## Project Overview
 As industries demand higher precision and efficiency in their automation processes, the need for intelligent and adaptive robotic systems becomes ever more critical. This project serves as a playground for developing and testing reinforcement learning algorithms that can excel at intricate insertion tasks.
@@ -10,8 +15,9 @@ As industries demand higher precision and efficiency in their automation process
 Our primary focus lies in three fundamental insertion scenarios:
 
 1. **Vial Capping Pick and Place:** Teaching robots to accurately place caps on vials.
-2. **Vial Insertion:** Navigating the intricate process of inserting vials into different holders and racks.
-3. **Rack Insertion:** Mastering the skill of inserting racks, both empty and loaded, into their designated holders.
+2. **Spoon Insertion:** Inserting a spatula-like spoon into a beaker, showcasing the robot’s ability to manipulate tools for various laboratory applications.
+3. **Vial Insertion:** Inserting vials from different holders into different containers.
+4. **Rack Insertion:** Learning the skill of rack insertion, both empty and loaded, into the rack holders.
 
 By leveraging the power of stable-baselines3 and sb3-contrib, we've created a platform for experimenting with different reinforcement learning algorithms and methodologies, fine-tuning their parameters, and ultimately training models that exhibit remarkable precision in these challenging tasks.
 
@@ -27,6 +33,28 @@ By leveraging the power of stable-baselines3 and sb3-contrib, we've created a pl
   <table>
     <tr>
       <th>Placing Cap on Vial</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/HadiBeyzaee/Chemistry_lab_tool_insertions_DRL/assets/124352983/65449a0e-8364-4773-8c30-8415a0969772" alt="Placing Cap on Vial" width="500px">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<br> <!-- Add spacing between scenarios -->
+<!-- Spoon Insertion -->
+<div align="center">
+  <h2><strong>Spoon Insertion Task</strong></h2>
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Spoon Insertion</th>
     </tr>
     <tr>
       <td align="center">
